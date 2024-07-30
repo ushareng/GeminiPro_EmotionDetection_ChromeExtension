@@ -1,0 +1,21 @@
+{
+    "manifest_version": 3,
+    "name": "Emotion Detection",
+    "version": "1.0",
+    "description": "Detect emotion of the text, helpful for Autistic people",
+    "permissions": ["activeTab", "storage", "scripting"
+   
+    ],
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "16": "icon.png",
+        "48": "icon.png",
+        "128": "icon.png"
+      }
+    },
+    "background": {
+      "service_worker": "background.js"
+    }
+  }
+  
