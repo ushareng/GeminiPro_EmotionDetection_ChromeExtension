@@ -1,2 +1,2 @@
 # Emotion-Detection-Chrome-Extension
-Chrome Extension for detecting emotion from text using gemini api
+Chrome Extension for Text emotion detection using Gemini api
