@@ -7,7 +7,7 @@
 https://github.com/user-attachments/assets/f9e4f96d-5c6c-4f8a-b2c3-692eee4bd44b
 
 ## WorkFlow
-![emotion_extension_new](https://github.com/user-attachments/assets/b3836d54-d82b-4c76-a4e9-f4d00c01b575)
+![chromeextension_new](https://github.com/user-attachments/assets/40154e5c-ef19-4ac8-ab5d-4718b789f574)
 
 
 ## Add it to your chrome
