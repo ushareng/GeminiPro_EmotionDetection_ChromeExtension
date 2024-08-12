@@ -1,8 +1,10 @@
 # Chrome Extension for Text emotion detection using Gemini Pro API
 
+# Usecase :
+
+Difficulty understanding emotions in multiple modalities like Face , Speech and Text forms important markers in the diagnosis of Autism spectrum Disorder(ASD) . This Chrome extension aims to help autistic individuals identify emotions in Text using Gemini . 
+
 ## Demo Video
-
-
 
 https://github.com/user-attachments/assets/f9e4f96d-5c6c-4f8a-b2c3-692eee4bd44b
 
